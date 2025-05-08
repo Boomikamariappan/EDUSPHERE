@@ -1,0 +1,4 @@
+D:\SchoolGrade\obj\Debug\net8.0\SchoolGrade.GeneratedMSBuildEditorConfig.editorconfig
+D:\SchoolGrade\obj\Debug\net8.0\SchoolGrade.AssemblyInfoInputs.cache
+D:\SchoolGrade\obj\Debug\net8.0\SchoolGrade.AssemblyInfo.cs
+D:\SchoolGrade\obj\Debug\net8.0\SchoolGrade.csproj.CoreCompileInputs.cache
